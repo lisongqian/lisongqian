@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello everyone 👋
+
+|[![lisongqian's GitHub stats](https://github-readme-stats.vercel.app/api?username=lisongqian&layout=compact&show_icons=true&include_all_commits=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lisongqian&layout=compact&hide_border=true&hide=html,css)](https://github.com/anuraghazra/github-readme-stats) |
+| ------ |------ |
+
+#### Recent Updated Repositories
+
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lisongqian&repo=Scriptable)](https://github.com/lisongqian/Scriptable)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=lisongqian&repo=DllInjectProject)](https://github.com/lisongqian/DllInjectProject)
 
 <!--
 **lisongqian/lisongqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
